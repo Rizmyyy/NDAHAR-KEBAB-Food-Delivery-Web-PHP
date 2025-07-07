@@ -1,0 +1,23 @@
+# Logs and temporary files
+*.log
+*.tmp
+debug_log.txt # Berdasarkan screenshot Anda
+
+# Environment variables
+.env
+.env.local
+
+# Dependency directories (if using Composer, e.g., 'vendor/')
+vendor/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files (example for VS Code, adjust if using another IDE)
+.vscode/
+
+# XAMPP specific (if any, usually not needed for repo)
+# If you have specific folders XAMPP creates that you don't want to track
+# e.g., if XAMPP creates a 'cache' folder inside your project
+cache/
