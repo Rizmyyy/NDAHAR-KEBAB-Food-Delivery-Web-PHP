@@ -28,42 +28,6 @@ Proyek ini adalah aplikasi web *food delivery* lengkap yang dikembangkan menggun
 * **Styling**: Bootstrap
 * **Server**: XAMPP (Apache)
 
-## Struktur Proyek
-Food-Delivery-Web-App-PHP/
-├── README.md                  # File ini
-├── .gitignore                 # File yang diabaikan Git
-├── LICENSE                    # Informasi lisensi proyek
-├── docs/                      # Dokumentasi proyek (skema DB, alur user, screenshot)
-│   └── database_schema.sql
-│   └── user_flow.md
-│   └── screenshots/           # Folder untuk menyimpan semua file screenshot
-│       ├── homepage.png
-│       ├── menu_page.png
-│       ├── cart_page.png
-│       ├── login_page.png
-│       ├── admin_dashboard.png
-│       └── chat_page.png
-├── public_html/               # Direktori utama kode sumber aplikasi (mirip htdocs)
-│   ├── css/                   # File-file CSS
-│   ├── img/                   # File-file gambar
-│   ├── js/                    # File-file JavaScript
-│   ├── lib/                   # Library eksternal (misal Bootstrap)
-│   ├── scss/                  # (Opsional) File sumber SCSS
-│   ├── koneksi.php            # Skrip koneksi database
-│   ├── index.php              # Halaman utama aplikasi
-│   ├── login.php              # Halaman login
-│   ├── register.php           # Halaman registrasi
-│   ├── keranjang.php          # Halaman keranjang belanja
-│   ├── bayar.php              # Halaman pembayaran
-│   ├── status_pesanan.php     # Halaman status pesanan
-│   ├── akun.php               # Halaman profil akun
-│   ├── chat.php               # Halaman chat
-│   ├── admin_produk.php       # Halaman admin untuk manajemen produk
-│   ├── admin_chat_handler.php # Handler chat untuk admin
-│   └── ... (file PHP lainnya sesuai screenshot)
-└── .env.example               # Contoh konfigurasi variabel lingkungan
-
-
 ## Cara Menjalankan Aplikasi
 
 ### Prasyarat
