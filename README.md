@@ -105,24 +105,19 @@ Aplikasi ini pernah di-hosting dan dapat diakses melalui domain berikut:
 Berikut adalah beberapa pratinjau tampilan aplikasi:
 
 ### Halaman Utama (Homepage)
-![Homepage Screenshot](docs/screenshot_dokumentasi/Halaman Utama Admin Panel.png)
+![Homepage Screenshot](docs/screenshot_dokumentasi/Halaman Utama Website.png)
 
 ### Halaman Menu Makanan
-![Menu Page Screenshot](docs/screenshots/menu_page.png)
+![Menu Page Screenshot](docs/screenshot_dokumentasi/Tampilan Pilihan Menu.png)
 
 ### Halaman Keranjang Belanja
-![Cart Page Screenshot](docs/screenshots/cart_page.png)
-
-### Halaman Login
-![Login Page Screenshot](docs/screenshots/login_page.png)
+![Cart Page Screenshot](docs/screenshot_dokumentasi/Halaman Keranjang.png)
 
 ### Dashboard Admin
-![Admin Dashboard Screenshot](docs/screenshots/admin_dashboard.png)
+![Admin Dashboard Screenshot](docs/screenshot_dokumentasi/Halaman Utama Admin Panel.png)
 
 ### Fitur Chat
-![Chat Feature Screenshot](docs/screenshots/chat_page.png)
-
-*(Pastikan nama file gambar dan path `docs/screenshots/` sesuai dengan lokasi sebenarnya di repositori Anda.)*
+![Chat Feature Screenshot](docs/screenshot_dokumentasi/Halaman Chat ke Admin.png)
 
 ## Kontribusi
 Kami menyambut kontribusi! Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah berikut:
