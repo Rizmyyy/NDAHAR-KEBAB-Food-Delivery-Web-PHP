@@ -1,2 +1,145 @@
 # NDAHAR-KEBAB-Food-Delivery-Web-PHP
 Aplikasi web food delivery lengkap berbasis PHP &amp; MySQL. Fitur meliputi penelusuran menu, keranjang, pemesanan, pembayaran, status pesanan, akun pengguna, dan chat. Dilengkapi panel admin untuk manajemen menu, pesanan, &amp; pengguna. Solusi komprehensif untuk platform pemesanan makanan online.
+
+## Deskripsi Proyek
+Proyek ini adalah aplikasi web *food delivery* lengkap yang dikembangkan menggunakan PHP sebagai *backend*, serta HTML, CSS, dan JavaScript untuk *frontend*. Sistem ini dirancang untuk memungkinkan pengguna menelusuri menu, mengelola keranjang belanja, melakukan pemesanan, dan melacak status pesanan. Tersedia juga fitur *chat* *real-time* untuk komunikasi, serta panel administrasi untuk mengelola semua aspek aplikasi.
+
+## Fitur Utama
+
+### Untuk Pengguna
+* **Pilihan Menu Interaktif**: Jelajahi berbagai kategori dan item makanan.
+* **Keranjang Belanja**: Tambah, hapus, dan perbarui jumlah item dalam keranjang.
+* **Pemesanan & Pembayaran**: Proses *checkout* yang mudah dan opsi pembayaran.
+* **Pelacakan Status Pesanan**: Lihat *update* status pesanan secara *real-time*.
+* **Manajemen Akun**: Pendaftaran, *login*, pengelolaan profil, dan riwayat pesanan.
+* **Chat Real-time**: Berkomunikasi langsung dengan admin atau *support*.
+
+### Untuk Admin
+* **Manajemen Menu**: Tambah, edit, dan hapus produk serta kategori.
+* **Manajemen Pesanan**: Lihat, perbarui status, dan kelola semua pesanan.
+* **Manajemen Pengguna**: Kelola akun pengguna terdaftar.
+* **Manajemen Promo**: Tambah, edit, dan hapus kode promo.
+* **Manajemen Chat**: Melihat dan merespons pesan *chat* dari pengguna.
+
+## Teknologi yang Digunakan
+* **Backend**: PHP (Native)
+* **Database**: MySQL
+* **Frontend**: HTML5, CSS3, JavaScript
+* **Styling**: Bootstrap
+* **Server**: XAMPP (Apache)
+
+## Struktur Proyek
+Food-Delivery-Web-App-PHP/
+├── README.md                  # File ini
+├── .gitignore                 # File yang diabaikan Git
+├── LICENSE                    # Informasi lisensi proyek
+├── docs/                      # Dokumentasi proyek (skema DB, alur user, screenshot)
+│   └── database_schema.sql
+│   └── user_flow.md
+│   └── screenshots/           # Folder untuk menyimpan semua file screenshot
+│       ├── homepage.png
+│       ├── menu_page.png
+│       ├── cart_page.png
+│       ├── login_page.png
+│       ├── admin_dashboard.png
+│       └── chat_page.png
+├── public_html/               # Direktori utama kode sumber aplikasi (mirip htdocs)
+│   ├── css/                   # File-file CSS
+│   ├── img/                   # File-file gambar
+│   ├── js/                    # File-file JavaScript
+│   ├── lib/                   # Library eksternal (misal Bootstrap)
+│   ├── scss/                  # (Opsional) File sumber SCSS
+│   ├── koneksi.php            # Skrip koneksi database
+│   ├── index.php              # Halaman utama aplikasi
+│   ├── login.php              # Halaman login
+│   ├── register.php           # Halaman registrasi
+│   ├── keranjang.php          # Halaman keranjang belanja
+│   ├── bayar.php              # Halaman pembayaran
+│   ├── status_pesanan.php     # Halaman status pesanan
+│   ├── akun.php               # Halaman profil akun
+│   ├── chat.php               # Halaman chat
+│   ├── admin_produk.php       # Halaman admin untuk manajemen produk
+│   ├── admin_chat_handler.php # Handler chat untuk admin
+│   └── ... (file PHP lainnya sesuai screenshot)
+└── .env.example               # Contoh konfigurasi variabel lingkungan
+
+
+## Cara Menjalankan Aplikasi
+
+### Prasyarat
+* **XAMPP / MAMP / WAMP** (atau *web server* Apache dengan PHP dan MySQL terinstal)
+* **Web Browser** (Google Chrome, Firefox, dll.)
+
+### Langkah-langkah Setup
+
+1.  **Klon Repositori**:
+    ```bash
+    git clone [https://github.com/NamaPenggunaAnda/Food-Delivery-Web-App-PHP.git](https://github.com/Rizmyyy/NDAHAR-KEBAB-Food-Delivery-Web-PHP.git)
+    NDAHAR-KEBAB-Food-Delivery-Web-PHP
+    ```
+
+2.  **Konfigurasi Variabel Lingkungan (Opsional namun Direkomendasikan)**:
+    Buat file `.env` di root folder proyek Anda. Salin konten dari `.env.example` ke dalam `.env` dan isi dengan nilai-nilai yang sesuai (misalnya, kredensial database).
+
+3.  **Setup Database**:
+    * Buka XAMPP Control Panel dan mulai Apache dan MySQL.
+    * Buka PHPMyAdmin. Buat database baru.
+    * Impor skema database dari `docs/database_schema.sql` ke database yang baru Anda buat.
+
+4.  **Tempatkan Kode di Web Server**:
+    Salin seluruh isi folder `public_html/` dari repositori yang Anda *clone* ke dalam folder `htdocs` XAMPP Anda.
+    Contoh: `C:\xampp\htdocs\food-delivery-app`
+
+5.  **Konfigurasi Koneksi Database**:
+    Buka file `public_html/koneksi.php` dan pastikan kredensial database (nama *host*, *username*, *password*, nama *database*) sudah sesuai dengan konfigurasi XAMPP dan database Anda.
+
+6.  **Akses Aplikasi**:
+    Buka *web browser* Anda dan navigasikan ke `http://localhost/food-delivery-app/`.
+
+## Live Demo
+Aplikasi ini pernah di-hosting dan dapat diakses melalui domain berikut:
+[**ndaharkebab.jurnalanalisis.com**](http://ndaharkebab.jurnalanalisis.com)
+*(Catatan: Ketersediaan demo ini tergantung pada masa aktif *hosting*.)*
+
+## Dokumentasi Visual (Screenshot)
+Berikut adalah beberapa pratinjau tampilan aplikasi:
+
+### Halaman Utama (Homepage)
+![Homepage Screenshot](docs/screenshot_dokumentasi/Halaman Utama Admin Panel.png)
+
+### Halaman Menu Makanan
+![Menu Page Screenshot](docs/screenshots/menu_page.png)
+
+### Halaman Keranjang Belanja
+![Cart Page Screenshot](docs/screenshots/cart_page.png)
+
+### Halaman Login
+![Login Page Screenshot](docs/screenshots/login_page.png)
+
+### Dashboard Admin
+![Admin Dashboard Screenshot](docs/screenshots/admin_dashboard.png)
+
+### Fitur Chat
+![Chat Feature Screenshot](docs/screenshots/chat_page.png)
+
+*(Pastikan nama file gambar dan path `docs/screenshots/` sesuai dengan lokasi sebenarnya di repositori Anda.)*
+
+## Kontribusi
+Kami menyambut kontribusi! Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah berikut:
+1.  *Fork* repositori ini.
+2.  Buat *branch* baru untuk fitur Anda (`git checkout -b feature/nama-fitur`).
+3.  Lakukan perubahan dan *commit* (`git commit -m 'Menambahkan fitur baru: nama fitur'`).
+4.  *Push* ke *branch* Anda (`git push origin feature/nama-fitur`).
+5.  Buat *Pull Request* baru.
+
+## Lisensi
+Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk detail lebih lanjut.
+
+## Kontak
+Jika ada pertanyaan atau saran, silakan hubungi kami melalui *issue tracker* di GitHub.
+
+
+
+
+
+
