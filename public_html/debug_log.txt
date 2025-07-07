@@ -1,0 +1,239 @@
+[2025-06-27 19:15:32] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-27 19:15:32] Session dimulai.
+[2025-06-27 19:15:32] Request adalah POST. Lanjut...
+[2025-06-27 19:15:32] Data POST yang diterima: {"id":"1","nama":"Kebab Sapi","harga":"29000","jumlah":"2","image":"img\/kebab_sapi.jpg"}
+[2025-06-27 19:15:32] Data FILES yang diterima: []
+[2025-06-27 19:15:32] Session keranjang dibuat (masih kosong).
+[2025-06-27 19:15:32] Mengecek data produk: ID=1, Harga Bersih=29000
+[2025-06-27 19:15:32] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-27 19:15:32] Produk ID 1 baru ditambahkan ke keranjang.
+[2025-06-27 19:15:32] Isi keranjang saat ini: {"1":{"id":1,"nama":"Kebab Sapi","harga":29000,"jumlah":2,"image":"img\/kebab_sapi.jpg"}}
+[2025-06-27 19:15:32] Total item di keranjang sekarang: 2
+[2025-06-27 19:15:32] Mengirim respon JSON ke browser: {"success":true,"cartCount":2}
+[2025-06-27 19:15:32] --- Request selesai ---
+[2025-06-27 19:23:41] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-27 19:23:41] Session dimulai.
+[2025-06-27 19:23:41] Request adalah POST. Lanjut...
+[2025-06-27 19:23:41] Data POST yang diterima: {"id":"1","nama":"Kebab Sapi","harga":"29000","jumlah":"2","image":"img\/kebab_sapi.jpg"}
+[2025-06-27 19:23:41] Data FILES yang diterima: []
+[2025-06-27 19:23:41] Mengecek data produk: ID=1, Harga Bersih=29000
+[2025-06-27 19:23:41] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-27 19:23:41] Produk ID 1 sudah ada. Jumlah diperbarui.
+[2025-06-27 19:23:41] Isi keranjang saat ini: {"1":{"id":1,"nama":"Kebab Sapi","harga":29000,"jumlah":4,"image":"img\/kebab_sapi.jpg"}}
+[2025-06-27 19:23:41] Total item di keranjang sekarang: 4
+[2025-06-27 19:23:41] Mengirim respon JSON ke browser: {"success":true,"cartCount":4}
+[2025-06-27 19:23:41] --- Request selesai ---
+[2025-06-27 19:33:59] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-27 19:33:59] Session dimulai.
+[2025-06-27 19:33:59] Request adalah POST. Lanjut...
+[2025-06-27 19:33:59] Data POST yang diterima: {"id":"6","nama":"adwewe","harga":"121212","jumlah":"2","image":"img\/685eb71c7c906-kebab sapi.jpg"}
+[2025-06-27 19:33:59] Data FILES yang diterima: []
+[2025-06-27 19:33:59] Mengecek data produk: ID=6, Harga Bersih=121212
+[2025-06-27 19:33:59] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-27 19:33:59] Produk ID 6 baru ditambahkan ke keranjang.
+[2025-06-27 19:33:59] Isi keranjang saat ini: {"6":{"id":6,"nama":"adwewe","harga":121212,"jumlah":2,"image":"img\/685eb71c7c906-kebab sapi.jpg"}}
+[2025-06-27 19:33:59] Total item di keranjang sekarang: 2
+[2025-06-27 19:33:59] Mengirim respon JSON ke browser: {"success":true,"cartCount":2}
+[2025-06-27 19:33:59] --- Request selesai ---
+[2025-06-27 19:38:18] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-27 19:38:18] Session dimulai.
+[2025-06-27 19:38:18] Request adalah POST. Lanjut...
+[2025-06-27 19:38:18] Data POST yang diterima: {"id":"2","nama":"Kebab Ayam","harga":"25000","jumlah":"1","image":"img\/kebabayam.jpg"}
+[2025-06-27 19:38:18] Data FILES yang diterima: []
+[2025-06-27 19:38:18] Mengecek data produk: ID=2, Harga Bersih=25000
+[2025-06-27 19:38:18] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-27 19:38:18] Produk ID 2 baru ditambahkan ke keranjang.
+[2025-06-27 19:38:18] Isi keranjang saat ini: {"6":{"id":6,"nama":"adwewe","harga":121212,"jumlah":2,"image":"img\/685eb71c7c906-kebab sapi.jpg"},"2":{"id":2,"nama":"Kebab Ayam","harga":25000,"jumlah":1,"image":"img\/kebabayam.jpg"}}
+[2025-06-27 19:38:18] Total item di keranjang sekarang: 3
+[2025-06-27 19:38:18] Mengirim respon JSON ke browser: {"success":true,"cartCount":3}
+[2025-06-27 19:38:18] --- Request selesai ---
+[2025-06-27 19:42:15] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-27 19:42:15] Session dimulai.
+[2025-06-27 19:42:15] Request adalah POST. Lanjut...
+[2025-06-27 19:42:15] Data POST yang diterima: {"id":"1","nama":"Kebab Sapi","harga":"29000","jumlah":"1","image":"img\/kebab_sapi.jpg"}
+[2025-06-27 19:42:15] Data FILES yang diterima: []
+[2025-06-27 19:42:15] Mengecek data produk: ID=1, Harga Bersih=29000
+[2025-06-27 19:42:15] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-27 19:42:15] Produk ID 1 baru ditambahkan ke keranjang.
+[2025-06-27 19:42:15] Isi keranjang saat ini: {"1":{"id":1,"nama":"Kebab Sapi","harga":29000,"jumlah":1,"image":"img\/kebab_sapi.jpg"}}
+[2025-06-27 19:42:15] Total item di keranjang sekarang: 1
+[2025-06-27 19:42:15] Mengirim respon JSON ke browser: {"success":true,"cartCount":1}
+[2025-06-27 19:42:15] --- Request selesai ---
+[2025-06-28 04:18:36] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-28 04:18:36] Session dimulai.
+[2025-06-28 04:18:36] Request adalah POST. Lanjut...
+[2025-06-28 04:18:36] Data POST yang diterima: {"id":"2","nama":"Kebab Ayam","harga":"25000","jumlah":"2","image":"img\/kebabayam.jpg"}
+[2025-06-28 04:18:36] Data FILES yang diterima: []
+[2025-06-28 04:18:36] Session keranjang dibuat (masih kosong).
+[2025-06-28 04:18:37] Mengecek data produk: ID=2, Harga Bersih=25000
+[2025-06-28 04:18:37] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-28 04:18:37] Produk ID 2 baru ditambahkan ke keranjang.
+[2025-06-28 04:18:37] Isi keranjang saat ini: {"2":{"id":2,"nama":"Kebab Ayam","harga":25000,"jumlah":2,"image":"img\/kebabayam.jpg"}}
+[2025-06-28 04:18:37] Total item di keranjang sekarang: 2
+[2025-06-28 04:18:37] Mengirim respon JSON ke browser: {"success":true,"cartCount":2}
+[2025-06-28 04:18:37] --- Request selesai ---
+[2025-06-28 04:25:45] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-28 04:25:45] Session dimulai.
+[2025-06-28 04:25:45] Request adalah POST. Lanjut...
+[2025-06-28 04:25:45] Data POST yang diterima: {"id":"5","nama":"wadehel","harga":"22222","jumlah":"1","image":"img\/685eba97cad00-iconayam-removebg-preview.png"}
+[2025-06-28 04:25:45] Data FILES yang diterima: []
+[2025-06-28 04:25:45] Session keranjang dibuat (masih kosong).
+[2025-06-28 04:25:45] Mengecek data produk: ID=5, Harga Bersih=22222
+[2025-06-28 04:25:45] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-28 04:25:45] Produk ID 5 baru ditambahkan ke keranjang.
+[2025-06-28 04:25:45] Isi keranjang saat ini: {"5":{"id":5,"nama":"wadehel","harga":22222,"jumlah":1,"image":"img\/685eba97cad00-iconayam-removebg-preview.png"}}
+[2025-06-28 04:25:45] Total item di keranjang sekarang: 1
+[2025-06-28 04:25:45] Mengirim respon JSON ke browser: {"success":true,"cartCount":1}
+[2025-06-28 04:25:45] --- Request selesai ---
+[2025-06-28 04:36:46] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-28 04:36:46] Session dimulai.
+[2025-06-28 04:36:46] Request adalah POST. Lanjut...
+[2025-06-28 04:36:46] Data POST yang diterima: {"id":"2","nama":"Kebab Ayam","harga":"25000","jumlah":"3","image":"img\/kebabayam.jpg"}
+[2025-06-28 04:36:46] Data FILES yang diterima: []
+[2025-06-28 04:36:46] Session keranjang dibuat (masih kosong).
+[2025-06-28 04:36:46] Mengecek data produk: ID=2, Harga Bersih=25000
+[2025-06-28 04:36:46] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-28 04:36:46] Produk ID 2 baru ditambahkan ke keranjang.
+[2025-06-28 04:36:46] Isi keranjang saat ini: {"2":{"id":2,"nama":"Kebab Ayam","harga":25000,"jumlah":3,"image":"img\/kebabayam.jpg"}}
+[2025-06-28 04:36:46] Total item di keranjang sekarang: 3
+[2025-06-28 04:36:46] Mengirim respon JSON ke browser: {"success":true,"cartCount":3}
+[2025-06-28 04:36:46] --- Request selesai ---
+[2025-06-28 06:02:00] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-28 06:02:00] Session dimulai.
+[2025-06-28 06:02:00] Request adalah POST. Lanjut...
+[2025-06-28 06:02:00] Data POST yang diterima: {"id":"2","nama":"Kebab Ayam","harga":"25000","jumlah":"1","image":"img\/kebabayam.jpg"}
+[2025-06-28 06:02:00] Data FILES yang diterima: []
+[2025-06-28 06:02:00] Session keranjang dibuat (masih kosong).
+[2025-06-28 06:02:00] Mengecek data produk: ID=2, Harga Bersih=25000
+[2025-06-28 06:02:00] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-28 06:02:00] Produk ID 2 baru ditambahkan ke keranjang.
+[2025-06-28 06:02:00] Isi keranjang saat ini: {"2":{"id":2,"nama":"Kebab Ayam","harga":25000,"jumlah":1,"image":"img\/kebabayam.jpg"}}
+[2025-06-28 06:02:00] Total item di keranjang sekarang: 1
+[2025-06-28 06:02:00] Mengirim respon JSON ke browser: {"success":true,"cartCount":1}
+[2025-06-28 06:02:00] --- Request selesai ---
+[2025-06-28 07:05:22] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-28 07:05:22] Session dimulai.
+[2025-06-28 07:05:22] Request adalah POST. Lanjut...
+[2025-06-28 07:05:22] Data POST yang diterima: {"id":"1","nama":"Kebab Sapi","harga":"29000","jumlah":"1","image":"img\/kebab_sapi.jpg"}
+[2025-06-28 07:05:22] Data FILES yang diterima: []
+[2025-06-28 07:05:22] Mengecek data produk: ID=1, Harga Bersih=29000
+[2025-06-28 07:05:22] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-28 07:05:22] Produk ID 1 baru ditambahkan ke keranjang.
+[2025-06-28 07:05:22] Isi keranjang saat ini: {"2":{"id":2,"nama":"Kebab Ayam","harga":25000,"jumlah":1,"image":"img\/kebabayam.jpg"},"1":{"id":1,"nama":"Kebab Sapi","harga":29000,"jumlah":1,"image":"img\/kebab_sapi.jpg"}}
+[2025-06-28 07:05:22] Total item di keranjang sekarang: 2
+[2025-06-28 07:05:22] Mengirim respon JSON ke browser: {"success":true,"cartCount":2}
+[2025-06-28 07:05:22] --- Request selesai ---
+[2025-06-28 09:44:12] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-28 09:44:12] Session dimulai.
+[2025-06-28 09:44:12] Request adalah POST. Lanjut...
+[2025-06-28 09:44:12] Data POST yang diterima: {"id":"1","nama":"Kebab Sapi","harga":"29000","jumlah":"2","image":"img\/kebab_sapi.jpg"}
+[2025-06-28 09:44:12] Data FILES yang diterima: []
+[2025-06-28 09:44:12] Mengecek data produk: ID=1, Harga Bersih=29000
+[2025-06-28 09:44:12] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-28 09:44:12] Produk ID 1 sudah ada. Jumlah diperbarui.
+[2025-06-28 09:44:12] Isi keranjang saat ini: {"2":{"id":2,"nama":"Kebab Ayam","harga":25000,"jumlah":1,"image":"img\/kebabayam.jpg"},"1":{"id":1,"nama":"Kebab Sapi","harga":29000,"jumlah":3,"image":"img\/kebab_sapi.jpg"}}
+[2025-06-28 09:44:12] Total item di keranjang sekarang: 4
+[2025-06-28 09:44:12] Mengirim respon JSON ke browser: {"success":true,"cartCount":4}
+[2025-06-28 09:44:12] --- Request selesai ---
+[2025-06-28 10:04:43] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-28 10:04:43] Session dimulai.
+[2025-06-28 10:04:43] Request adalah POST. Lanjut...
+[2025-06-28 10:04:43] Data POST yang diterima: {"id":"1","nama":"Kebab Sapi","harga":"29000","jumlah":"1","image":"img\/kebab_sapi.jpg"}
+[2025-06-28 10:04:43] Data FILES yang diterima: []
+[2025-06-28 10:04:43] Mengecek data produk: ID=1, Harga Bersih=29000
+[2025-06-28 10:04:43] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-28 10:04:43] Produk ID 1 sudah ada. Jumlah diperbarui.
+[2025-06-28 10:04:43] Isi keranjang saat ini: {"2":{"id":2,"nama":"Kebab Ayam","harga":25000,"jumlah":3,"image":"img\/kebabayam.jpg"},"1":{"id":1,"nama":"Kebab Sapi","harga":29000,"jumlah":4,"image":"img\/kebab_sapi.jpg"}}
+[2025-06-28 10:04:43] Total item di keranjang sekarang: 7
+[2025-06-28 10:04:43] Mengirim respon JSON ke browser: {"success":true,"cartCount":7}
+[2025-06-28 10:04:43] --- Request selesai ---
+[2025-06-29 09:45:21] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-29 09:45:21] Session dimulai.
+[2025-06-29 09:45:21] Request adalah POST. Lanjut...
+[2025-06-29 09:45:21] Data POST yang diterima: {"id":"2","nama":"Kebab Ayam","harga":"25000","jumlah":"1","image":"img\/kebabayam.jpg"}
+[2025-06-29 09:45:21] Data FILES yang diterima: []
+[2025-06-29 09:45:21] Session keranjang dibuat (masih kosong).
+[2025-06-29 09:45:21] Mengecek data produk: ID=2, Harga Bersih=25000
+[2025-06-29 09:45:21] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-29 09:45:21] Produk ID 2 baru ditambahkan ke keranjang.
+[2025-06-29 09:45:21] Isi keranjang saat ini: {"2":{"id":2,"nama":"Kebab Ayam","harga":25000,"jumlah":1,"image":"img\/kebabayam.jpg"}}
+[2025-06-29 09:45:21] Total item di keranjang sekarang: 1
+[2025-06-29 09:45:21] Mengirim respon JSON ke browser: {"success":true,"cartCount":1}
+[2025-06-29 09:45:21] --- Request selesai ---
+[2025-06-29 12:21:50] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-29 12:21:50] Session dimulai.
+[2025-06-29 12:21:50] Request adalah POST. Lanjut...
+[2025-06-29 12:21:50] Data POST yang diterima: {"id":"1","nama":"Kebab Sapi","harga":"29000","jumlah":"1","image":"img\/kebab_sapi.jpg"}
+[2025-06-29 12:21:50] Data FILES yang diterima: []
+[2025-06-29 12:21:50] Session keranjang dibuat (masih kosong).
+[2025-06-29 12:21:50] Mengecek data produk: ID=1, Harga Bersih=29000
+[2025-06-29 12:21:50] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-29 12:21:50] Produk ID 1 baru ditambahkan ke keranjang.
+[2025-06-29 12:21:50] Isi keranjang saat ini: {"1":{"id":1,"nama":"Kebab Sapi","harga":29000,"jumlah":1,"image":"img\/kebab_sapi.jpg"}}
+[2025-06-29 12:21:50] Total item di keranjang sekarang: 1
+[2025-06-29 12:21:50] Mengirim respon JSON ke browser: {"success":true,"cartCount":1}
+[2025-06-29 12:21:50] --- Request selesai ---
+[2025-06-29 13:34:56] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-29 13:34:56] Session dimulai.
+[2025-06-29 13:34:56] Request adalah POST. Lanjut...
+[2025-06-29 13:34:56] Data POST yang diterima: {"id":"1","nama":"Kebab Sapi","harga":"29000","jumlah":"1","image":"img\/kebab_sapi.jpg"}
+[2025-06-29 13:34:56] Data FILES yang diterima: []
+[2025-06-29 13:34:56] Session keranjang dibuat (masih kosong).
+[2025-06-29 13:34:56] Mengecek data produk: ID=1, Harga Bersih=29000
+[2025-06-29 13:34:56] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-29 13:34:56] Produk ID 1 baru ditambahkan ke keranjang.
+[2025-06-29 13:34:56] Isi keranjang saat ini: {"1":{"id":1,"nama":"Kebab Sapi","harga":29000,"jumlah":1,"image":"img\/kebab_sapi.jpg"}}
+[2025-06-29 13:34:56] Total item di keranjang sekarang: 1
+[2025-06-29 13:34:56] Mengirim respon JSON ke browser: {"success":true,"cartCount":1}
+[2025-06-29 13:34:56] --- Request selesai ---
+[2025-06-30 08:44:16] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-30 08:44:16] Session dimulai.
+[2025-06-30 08:44:16] Request adalah POST. Lanjut...
+[2025-06-30 08:44:16] Data POST yang diterima: {"id":"1","nama":"Kebab Sapi","harga":"29000","jumlah":"1","image":"img\/kebab_sapi.jpg"}
+[2025-06-30 08:44:16] Data FILES yang diterima: []
+[2025-06-30 08:44:16] Session keranjang dibuat (masih kosong).
+[2025-06-30 08:44:16] Mengecek data produk: ID=1, Harga Bersih=29000
+[2025-06-30 08:44:16] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-30 08:44:16] Produk ID 1 baru ditambahkan ke keranjang.
+[2025-06-30 08:44:16] Isi keranjang saat ini: {"1":{"id":1,"nama":"Kebab Sapi","harga":29000,"jumlah":1,"image":"img\/kebab_sapi.jpg"}}
+[2025-06-30 08:44:16] Total item di keranjang sekarang: 1
+[2025-06-30 08:44:16] Mengirim respon JSON ke browser: {"success":true,"cartCount":1}
+[2025-06-30 08:44:16] --- Request selesai ---
+[2025-06-30 12:40:46] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-30 12:40:46] Session dimulai.
+[2025-06-30 12:40:46] Request adalah POST. Lanjut...
+[2025-06-30 12:40:46] Data POST yang diterima: {"id":"1","nama":"Kebab Sapi","harga":"29000","jumlah":"1","image":"img\/kebab_sapi.jpg"}
+[2025-06-30 12:40:46] Data FILES yang diterima: []
+[2025-06-30 12:40:46] Session keranjang dibuat (masih kosong).
+[2025-06-30 12:40:46] Mengecek data produk: ID=1, Harga Bersih=29000
+[2025-06-30 12:40:46] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-30 12:40:46] Produk ID 1 baru ditambahkan ke keranjang.
+[2025-06-30 12:40:46] Isi keranjang saat ini: {"1":{"id":1,"nama":"Kebab Sapi","harga":29000,"jumlah":1,"image":"img\/kebab_sapi.jpg"}}
+[2025-06-30 12:40:46] Total item di keranjang sekarang: 1
+[2025-06-30 12:40:46] Mengirim respon JSON ke browser: {"success":true,"cartCount":1}
+[2025-06-30 12:40:46] --- Request selesai ---
+[2025-06-30 12:49:56] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-30 12:49:56] Session dimulai.
+[2025-06-30 12:49:56] Request adalah POST. Lanjut...
+[2025-06-30 12:49:56] Data POST yang diterima: {"id":"2","nama":"Kebab Ayam","harga":"25000","jumlah":"1","image":"img\/kebabayam.jpg"}
+[2025-06-30 12:49:56] Data FILES yang diterima: []
+[2025-06-30 12:49:56] Mengecek data produk: ID=2, Harga Bersih=25000
+[2025-06-30 12:49:56] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-30 12:49:56] Produk ID 2 baru ditambahkan ke keranjang.
+[2025-06-30 12:49:56] Isi keranjang saat ini: {"1":{"id":1,"nama":"Kebab Sapi","harga":29000,"jumlah":1,"image":"img\/kebab_sapi.jpg"},"2":{"id":2,"nama":"Kebab Ayam","harga":25000,"jumlah":1,"image":"img\/kebabayam.jpg"}}
+[2025-06-30 12:49:56] Total item di keranjang sekarang: 2
+[2025-06-30 12:49:56] Mengirim respon JSON ke browser: {"success":true,"cartCount":2}
+[2025-06-30 12:49:56] --- Request selesai ---
+[2025-06-30 16:21:04] --- Memulai request ke tambah_keranjang.php ---
+[2025-06-30 16:21:04] Session dimulai.
+[2025-06-30 16:21:04] Request adalah POST. Lanjut...
+[2025-06-30 16:21:04] Data POST yang diterima: {"id":"1","nama":"Kebab Sapi","harga":"29000","jumlah":"2","image":"img\/kebab_sapi.jpg"}
+[2025-06-30 16:21:04] Data FILES yang diterima: []
+[2025-06-30 16:21:04] Session keranjang dibuat (masih kosong).
+[2025-06-30 16:21:04] Mengecek data produk: ID=1, Harga Bersih=29000
+[2025-06-30 16:21:04] Data produk VALID. Memproses penambahan ke keranjang...
+[2025-06-30 16:21:04] Produk ID 1 baru ditambahkan ke keranjang.
+[2025-06-30 16:21:04] Isi keranjang saat ini: {"1":{"id":1,"nama":"Kebab Sapi","harga":29000,"jumlah":2,"image":"img\/kebab_sapi.jpg"}}
+[2025-06-30 16:21:04] Total item di keranjang sekarang: 2
+[2025-06-30 16:21:04] Mengirim respon JSON ke browser: {"success":true,"cartCount":2}
+[2025-06-30 16:21:04] --- Request selesai ---
