@@ -105,19 +105,22 @@ Aplikasi ini pernah di-hosting dan dapat diakses melalui domain berikut:
 Berikut adalah beberapa pratinjau tampilan aplikasi:
 
 ### Halaman Utama (Homepage)
-![Homepage Screenshot](docs/screenshot_dokumentasi/Halaman Utama Website.png)
+![Halaman Utama Website](https://github.com/user-attachments/assets/a0ead60f-53d5-4d16-9213-59da3d7acf09)
 
 ### Halaman Menu Makanan
-![Menu Page Screenshot](docs/screenshot_dokumentasi/Tampilan Pilihan Menu.png)
+![Tampilan Pilihan Menu](https://github.com/user-attachments/assets/f2b3392e-8719-4906-b643-4d3345f34dee)
 
 ### Halaman Keranjang Belanja
-![Cart Page Screenshot](docs/screenshot_dokumentasi/Halaman Keranjang.png)
+![Halaman Keranjang](https://github.com/user-attachments/assets/ace9577e-81d7-4e98-97bb-bdb2e4c9ab26)
 
 ### Dashboard Admin
-![Admin Dashboard Screenshot](docs/screenshot_dokumentasi/Halaman Utama Admin Panel.png)
+![Halaman Utama Admin Panel](https://github.com/user-attachments/assets/13231a53-3d3e-4857-a923-2f86defb815b)
 
 ### Fitur Chat
-![Chat Feature Screenshot](docs/screenshot_dokumentasi/Halaman Chat ke Admin.png)
+![Halaman Chat ke Admin](https://github.com/user-attachments/assets/a040af1b-6c72-4bf2-b9b1-6b63ea512f45)
+
+### Tampilan Mobile
+![Tampilan Mobile](https://github.com/user-attachments/assets/79426ca1-5cde-4d80-bfd2-6c7bb2f5e383)
 
 ## Kontribusi
 Kami menyambut kontribusi! Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah berikut:
